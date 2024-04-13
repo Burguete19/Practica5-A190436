@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Peliculas.xsl"?>
+<Peliculas>
+    <Pelicula>
+        <Titulo>Avatar</Titulo>
+        <Directores>James Cameron</Directores>
+        <Año>2009</Año>
+    </Pelicula>
+     <Pelicula>
+        <Titulo>Jurassic World</Titulo>
+        <Directores>Colin Trevorrow</Directores>
+        <Año>	2015</Año>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>Coco</Titulo>
+        <Directores>Lee Unkrich y Adrián Molina</Directores>
+        <Año>	2017</Año>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>Wonder Woman</Titulo>
+        <Directores>Patty Jenkins</Directores>
+        <Año>	2017</Año>
+    </Pelicula>
+    <Pelicula>
+       <Titulo>AvengersEndgame</Titulo>
+        <Directores>Anthony y Joe Russo</Directores>
+        <Año>2019</Año>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>El rey león</Titulo>
+        <Directores>Jon Favreau</Directores>
+        <Año>	2019</Año>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>Spider-Man No Way Home</Titulo>
+        <Directores>Jon Watts</Directores>
+        <Año>2021</Año>
+    </Pelicula>
+     <Pelicula>
+        <Titulo>Doctor Strange en el multiverso de la locura</Titulo>
+        <Directores>Sam Raimi</Directores>
+        <Año>2022</Año>
+    </Pelicula>
+    <Pelicula>
+        <Titulo>Guardianes de la Galaxia vol. 3</Titulo>
+        <Directores>James Gunn</Directores>
+        <Año>2023</Año>
+    </Pelicula>
+     <Pelicula>
+        <Titulo>Oppenheimer</Titulo>
+        <Directores>JChristopher Nolan</Directores>
+        <Año>2023</Año>
+    </Pelicula>
+</Peliculas>
